@@ -25,7 +25,7 @@ export default function Navbar() {
         <Link to="/">
           <img
             className="h-8.5 w-auto"
-            src="./public/assets/favicon.svg"
+            src="/assets/favicon copy.svg"
             alt="logo"
             width={130}
             height={34}
