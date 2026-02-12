@@ -88,6 +88,16 @@ const fakeImages: string[] = [
   "https://thumbs.dreamstime.com/b/neon-cyberpunk-cityscape-futuristic-flying-car-elevated-highway-night-city-showcasing-gliding-over-scene-bathed-376748148.jpg",
   "https://thumbs.dreamstime.com/b/futuristic-highway-neon-lit-city-sunset-dynamic-cutting-showcasing-advanced-flying-vehicles-vibrant-skyscrapers-357448841.jpg",
   "https://thumbs.dreamstime.com/b/futuristic-city-drive-neon-lights-flying-cars-sleek-red-car-drives-wet-highway-night-illuminated-vibrant-425353154.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-neon-motorcycle-cyberpunk-city-rain-generative-ai-sleek-powerful-illuminated-vibrant-lights-rainy-cityscape-371160556.jpg",
+  "https://thumbs.dreamstime.com/b/cyberpunk-motorcycle-rain-futuristic-motorcycle-parked-rainy-city-street-night-illuminated-vibrant-neon-lights-355575429.jpg",
+  "https://thumbs.dreamstime.com/b/biker-futuristic-bike-rainy-night-neon-city-cyberpunk-style-generative-ai-268932873.jpg",
+  "https://thumbs.dreamstime.com/b/biker-futuristic-bike-rainy-night-neon-city-cyberpunk-style-generative-ai-268019094.jpg",
+  "https://thumbs.dreamstime.com/b/biker-futuristic-bike-neon-city-cyberpunk-style-generative-ai-biker-futuristic-bike-rainy-night-neon-city-268082661.jpg",
+  "https://thumbs.dreamstime.com/b/cyberpunk-city-night-rain-slicked-streets-neon-lights-cyberpunk-style-motorcyclist-rides-rain-slicked-city-night-372861138.jpg",
+  "https://thumbs.dreamstime.com/b/cyberpunk-biker-rides-futuristic-motorcycle-city-night-scene-wet-street-reflects-neon-lights-glowing-red-blue-rider-wears-black-348000488.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-motorcycle-design-glowing-neon-lines-digital-art-high-tech-aesthetics-vibrant-colors-abstract-representation-ai-356587769.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-neon-motorcycle-cyberpunk-style-vibrant-lighting-ai-generated-image-stunning-d-render-custom-motorcycle-398962359.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-motorcycle-rain-neon-city-night-cyberpunk-style-video-game-357729466.jpg",
 
   
 
