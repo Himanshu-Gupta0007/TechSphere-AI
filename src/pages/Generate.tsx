@@ -78,6 +78,16 @@ const fakeImages: string[] = [
   "https://thumbs.dreamstime.com/b/low-angle-dynamic-shot-futuristic-sports-car-driving-down-wet-neon-lit-cyberpunk-city-street-night-ideal-themes-422153045.jpg",     // low angle cyberpunk car night rain
   "https://thumbs.dreamstime.com/b/cyberpunk-city-street-night-rain-neon-lights-futuristic-vehicles-rainy-night-futuristic-cyberpunk-city-street-neon-380413667.jpg",     // neon vehicles rainy cyberpunk street
   "https://thumbs.dreamstime.com/b/flying-cars-weave-neon-drenched-rain-slicked-cyberpunk-cityscape-red-light-trails-speed-along-multi-level-highways-396386575.jpg",     // flying cars neon rain cyberpunk highway
+  "https://thumbs.dreamstime.com/b/futuristic-cyberpunk-city-night-neon-lights-flying-cars-cityscape-depicting-bustling-urban-environment-filled-384437238.jpg",
+  "https://thumbs.dreamstime.com/b/neon-cyberpunk-cityscape-futuristic-flying-vehicles-above-elevated-highway-night-nighttime-view-futuristic-city-neon-377546552.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-city-street-neon-lights-flying-cars-rain-night-futuristic-city-street-neon-lights-flying-334585158.jpg",
+  "https://thumbs.dreamstime.com/b/flying-cars-soaring-above-futuristic-neon-lit-city-highway-night-future-town-filled-towering-skyscrapers-illuminated-354815168.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-city-night-flying-cars-holographic-displays-vibrant-futuristic-city-night-featuring-flying-cars-408489751.jpg",
+  "https://thumbs.dreamstime.com/b/neon-lit-futuristic-city-flying-vehicles-night-cityscape-featuring-cars-hovering-skyscrapers-under-glowing-cloud-350682223.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-cyberpunk-city-night-neon-lights-flying-cars-cityscape-depicting-bustling-urban-environment-filled-384437238.jpg",
+  "https://thumbs.dreamstime.com/b/neon-cyberpunk-cityscape-futuristic-flying-car-elevated-highway-night-city-showcasing-gliding-over-scene-bathed-376748148.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-highway-neon-lit-city-sunset-dynamic-cutting-showcasing-advanced-flying-vehicles-vibrant-skyscrapers-357448841.jpg",
+  "https://thumbs.dreamstime.com/b/futuristic-city-drive-neon-lights-flying-cars-sleek-red-car-drives-wet-highway-night-illuminated-vibrant-425353154.jpg",
 
   
 
